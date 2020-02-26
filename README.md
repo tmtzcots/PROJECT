@@ -7,9 +7,9 @@ Machine Learning
 >Ising_1D_TensorFlow\\\
 >Ising_Model_2D_TensorFlow\\\
 >linear_regression\\\
->LogReg_LogRegCV_LogRegBGD\\\
+>LogReg_LogRegCV_LogRegBGD
 
 ## **P2**
 For Bank data analysis see files: 
 >notebook: P2 \\\
->data: bank-additional-full \\\
+>data: bank-additional-full
